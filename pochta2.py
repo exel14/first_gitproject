@@ -74,6 +74,7 @@ red_lines()
 def open_files(file_name):
     with open(file_name,'r') as read1:
         phones = read1.read()
+    return phones
 file_name = 'telephone.txt'
 open_files(file_name='telephone.txt')
 
