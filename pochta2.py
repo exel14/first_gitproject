@@ -75,8 +75,22 @@ def open_files(file_name):
     with open(file_name,'r') as read1:
         phones = read1.read()
     return phones
-file_name = 'telephone.txt'
-open_files(file_name='telephone.txt')
+user_input = input()
+if user_input == 'phones':
+    open_files('telephone.txt')
+    print(open_files('telephone.txt'))
+elif user_input == 'processor':
+    open_files('processor.txt')
+    print(open_files('processor.txt'))
+elif user_input == 'hard_disk':
+    open_files('hard_disk.txt')
+    print(open_files('hard_disk.txt'))
+elif user_input == 'computers':
+    open_files('computers.txt')
+    print(open_files('computers.txt'))
+
+
+
 
 
 
