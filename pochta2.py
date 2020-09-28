@@ -1,3 +1,34 @@
+import sendgrid
+from sendgrid import Mail
+sendgrid_api_key = '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'
+SUBJECT = 'Code'
+sg = sendgrid.SendGridAPIClient(sendgrid_api_key)
+def sendgrid_email(code, email):
+    body = 'Hi,'+ code
+    message = Mail(
+        from_email='showmetheway220@gmail.com',
+        to_emails=email,
+        subject=SUBJECT,
+        plain_text_content=body)
+    response = sg.send(message)
+def registration(username,password,check_password):
+    global code
+    code = '123456'
+    if password == check_password:
+        sendgrid_email(code,'showmetheway220@gmail.com')
+    else:
+        return 'Повторите попытку'
+username = 'username'
+password = 'password'
+check_password = 'password'
+registration(username=username,password=password,check_password=check_password)
+def check_code(check):
+    if check == code:
+        print(code)
+    else:
+        print('NO')
+check = '123456'
+check_code(check=check)
 strings = ['Samsung j5',
            'samsung galaxy',
            'iphone 10',
