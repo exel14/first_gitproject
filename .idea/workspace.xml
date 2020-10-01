@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8216c6d3-231c-4cae-9e08-674b78fb3b57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/zadacha 14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadacha13.py" afterDir="false" />
+    <list default="true" id="8216c6d3-231c-4cae-9e08-674b78fb3b57" name="Default Changelist" comment="Dict">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +46,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="zadacha13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.pochta3">
+    <configuration name="Telegram" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="first_gitproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,7 +59,91 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zadacha13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Telegram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oshibki" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first_gitproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oshibki.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pochta 4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first_gitproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pochta 4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pochta3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first_gitproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pochta3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="slovari" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first_gitproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/slovari.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -72,7 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zadacha13" />
+        <item itemvalue="Python.pochta3" />
+        <item itemvalue="Python.pochta 4" />
+        <item itemvalue="Python.oshibki" />
+        <item itemvalue="Python.Telegram" />
+        <item itemvalue="Python.slovari" />
       </list>
     </recent_temporary>
   </component>
@@ -85,6 +171,77 @@
       <option name="presentableId" value="Default" />
       <updated>1600779382442</updated>
     </task>
+    <task id="LOCAL-00001" summary="min 4">
+      <created>1600781708994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600781708994</updated>
+    </task>
+    <task id="LOCAL-00002" summary="просто число">
+      <created>1600781732246</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600781732246</updated>
+    </task>
+    <task id="LOCAL-00003" summary="поиск квадртов">
+      <created>1600783344283</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1600783344283</updated>
+    </task>
+    <task id="LOCAL-00004" summary="сортировка">
+      <created>1601292078552</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601292078627</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Registration">
+      <created>1601292317529</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601292317529</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Registration">
+      <created>1601292459705</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601292459705</updated>
+    </task>
+    <task id="LOCAL-00007" summary="sortirovka">
+      <created>1601294325942</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601294325942</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Sortirovka">
+      <created>1601294401511</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601294401511</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Searching system for shop">
+      <created>1601294743053</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601294743053</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Dict">
+      <created>1601296147249</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601296147249</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,26 +255,69 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="min 4" />
+    <MESSAGE value="просто число" />
+    <MESSAGE value="поиск квадртов" />
+    <MESSAGE value="сортировка" />
+    <MESSAGE value="Registration" />
+    <MESSAGE value="sortirovka" />
+    <MESSAGE value="Sortirovka" />
+    <MESSAGE value="Searching system for shop" />
+    <MESSAGE value="Dict" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dict" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="129" y="55" key="DiffContextDialog" timestamp="1600783348824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1600783348824" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1600779437111">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600779437111" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1600781289800">
+    <state width="1345" height="170" key="GridCell.Tab.0.bottom" timestamp="1601553820377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600781289800" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1600781289800">
+    <state width="1345" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601553820377" />
+    <state width="1345" height="170" key="GridCell.Tab.0.center" timestamp="1601553820376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600781289800" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1600781289800">
+    <state width="1345" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601553820376" />
+    <state width="1345" height="170" key="GridCell.Tab.0.left" timestamp="1601553820376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600781289800" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1600781289800">
+    <state width="1345" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601553820376" />
+    <state width="1345" height="170" key="GridCell.Tab.0.right" timestamp="1601553820377">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600781289800" />
+    <state width="1345" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601553820377" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601296150260">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601296150260" />
+    <state x="507" y="271" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601294702471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="271" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601294702471" />
+    <state x="0" y="0" width="1003" height="503" key="dock-window-1" timestamp="1600868351611">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="1003" height="503" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1600868351611" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1601465625810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601465625810" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Telegram.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
